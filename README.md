@@ -18,4 +18,7 @@
 
 # How to use zsh theme ?
 - Type nano .zshrc in home directory
+
+- and change theme like this
+
 ![alt-text](https://github.com/FajarTheGGman/zsh-kepo/blob/master/.img/howto.PNG)
