@@ -17,5 +17,5 @@
 </pre>
 
 # How to use zsh theme ?
-<p>- Type nano .zshrc in home directory</p>
+- Type nano .zshrc in home directory
 ![alt-text](https://github.com/FajarTheGGman/zsh-kepo/blob/master/.img/howto.PNG)
