@@ -1,3 +1,4 @@
+#Copyright© 2020 By Fajar Firdaus
 # Warna
 GREEN="%{$fg_bold[green]%}"
 YELLOW="%{$fg_bold[yellow]%}"
