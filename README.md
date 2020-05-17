@@ -22,3 +22,6 @@
 - and change theme like this
 
 ![alt-text](https://github.com/FajarTheGGman/zsh-kepo/blob/master/.img/howto.PNG)
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
